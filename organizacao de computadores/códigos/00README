@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Índice dos Arquivos
+-------------------------------------------------------------------------------
+exercicio001.s      tradução de a = b + c;
+exercicio002.s      tradução de a = b + c + d + e;
+exercicio004.s      trabalhando com índices numéricos. Traduzindo a[2] = a[0] + a[1];
+exercicio005.s      trabalhando com índices variáveis. Traduzindo a[k] = a[i] + a[j];
+exercicio011.s      exemplo de um procedimento folha
+exercicio012.s      exemplo da função fatorial recursiva
+exercicio013.s      exemplo da função fatorial não recursiva
+exercicio014.s      exemplo de função que copia uma string em outra
+exercicio027.s      Tipos de dados que o compilador armazena na memória de dados  
+exercicio026.s      programa para calcular a raiz quadrada de um número double pelo método de Newton
+exercicio028.s      intruções para armazenar um registrador na memória e vice-versa
+exercicio040.s      tradução de a=10; e b=1000000;
+exercicio041.s      tradução de a=b;
+exercicio042.s      tradução de a=b+1;
+exercicio043.s      exemplo do uso do operador and para isolar bits de uma palavra
+exercicio044.s      exemplo dos operadores and, or e xor para setar, resetar e inverter bits
+exercicio047.s      converte uma palavra para uma string hexadecimal
+exercicio050.s      exemplo com a tradução da instrução goto: um laço infinito.
+exercicio051.s      exemplo com a tradução da instrução if.
+exercicio052.s      exemplo com a tradução da instrução if else.
+exercicio053.s      exemplo com a tradução da instrução while.
+exercicio054.s      exemplo com a tradução da instrução do-while.
+exercicio055.s      exemplo com a tradução da instrução switch-case.
+exercicio056.s      exemplo com a tradução da instrução for. 
+diretório exercicio060 Converte um conjunto de instruções em linguagem de máquina para instruções em linguagem de montagem

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1512450050 source:c:\users\julia\desktop\grafos\grafos\grafo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"grafo.h"
+
+1512450050 c:\users\julia\desktop\grafos\grafos\grafo.h
+
+1512449821 source:c:\users\julia\desktop\grafos\grafos\main.c
+	"stdlib.h"
+	"stdio.h"
+	"grafo.h"
+
+1512450050 source:c:\users\julia\desktop\grafos\grafo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"grafo.h"
+
+1512450050 c:\users\julia\desktop\grafos\grafo.h
+
+1512450557 source:c:\users\julia\desktop\grafos\main.c
+	"stdlib.h"
+	"stdio.h"
+	"grafo.h"
+	"limits.h"
+

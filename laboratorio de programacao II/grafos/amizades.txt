@@ -1,0 +1,15 @@
+Alice;Beto;Julia;Maria;Flavio;Katia
+Beto;Alice;Cleiton;Maria;Duda;Flavio
+Cleiton;Beto;Katia
+Duda;Beto;Katia;Olivia
+Eloa;Julia;Katia
+Flavio;Alice;Beto;Greta;Katia
+Greta;Flavio;Maria;Katia
+Helio;Katia
+Julia;Alice;Eloa;Katia
+Katia;Alice;Cleiton;Duda;Eloa;Flavio;Greta;Helio;Julia;Maria
+Luis;Nairo
+Maria;Alice;Beto;Duda;Greta;Nair;Katia
+Nairo;Luis;Olivia
+Olivia;Nairo;Duda
+Paria;

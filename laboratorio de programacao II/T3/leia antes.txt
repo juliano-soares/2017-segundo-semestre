@@ -1,0 +1,14 @@
+
+*os valores a serem inseridos nas ordens corretas e de tipo se for
+codigos devem ser inteiro
+
+*os meses dias e anos não sao verificados para ver se existe data 
+
+*cpf, telefone e outros devem seguir se for inteiro inserir inteiro ou char 
+se inserir um maior podem ocorrer erros 
+
+*programa feito todo no codeblocks e windowns
+
+*porfavor corrigir nestes programas, pois , não deu tempo de testar em outros
+
+*é preciso criar o projeto com todos os arquivos no codeblocks para que não ocorra erros
