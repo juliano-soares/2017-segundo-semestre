@@ -1,0 +1,19 @@
+O 1o trabalho da disciplina ELC1011 – Organização de Computadores, poderá ser realizado indi-
+vidualmente ou em duplas. Quando desenvolvido em duplas, espera-se, que ambos os alunos
+desenvolvam o trabalho. A entrega do trabalho será realizada por meio da ferramenta Moodle, até
+16/10/2017: um arquivo comprimido (tipo ZIP) deverá conter um relatório do trabalho (em PDF) e
+os arquivos fontes dos programas desenvolvidos. O relatório do trabalho deverá conter as seguintes
+seções: introdução, objetivos, revisão bibliográfica, metodologia, experimento, resultados, discussão
+e conclusões e perspectivas. O código fonte deve estar completo e conter exemplos para que possa
+ser verificado (descritos no relatório). O trabalho deve ser apresentado ao professor. Agende uma
+data e local com o professor.
+O objetivo principal do 1o trabalho é desenvolver um programa disassembler (desmontador ou
+desassemblador) para o processador MIPS. Este programa deve ser escrito em assembly para o
+processador MIPS e compilado no programa MARS. O programa lê arquivo com código em linguagem
+de máquina, realiza a desmontagem e escreve o resultado do processamento em um arquivo texto.
+Para cada instrução em linguagem de máquina, a saída do programa deve gerar, pelo menos,
+o endereço da instrução desmontada, a instrução em linguagem de máquina e a instrução em
+linguagem de montagem. O programa não precisa reconhecer as instruções para ponto flutuante ou
+instruções que não foram estudadas no capítulo 2 (Instruções: A linguagem de Máquina) do livro do
+Patterson e Hennessy. Para o desenvolvimento do trabalho, utilize o mapa de opcodes da figura
+B.10.2, do livro do Patterson.
