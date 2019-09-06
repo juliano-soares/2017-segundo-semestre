@@ -1,7 +1,7 @@
-/*2. Implemente uma funÁ„o para testar se um n˙mero inteiro
-È primo ou n„o. Esta funÁ„o deve obedecer ao protÛtipo
+/*2. Implemente uma fun√ß√£o para testar se um n√∫mero inteiro
+√© primo ou n√£o. Esta fun√ß√£o deve obedecer ao prot√≥tipo
 a seguir e ter como valor de retorno 1 se n for primo e 0
-caso contr·rio: int primo (int n);*/
+caso contr√°rio: int primo (int n);*/
 
 #include <stdio.h>
 
@@ -21,13 +21,13 @@ int primo(int n)
 int main(void)
 {
     int numero, confirmacao;
-    printf("Digite o numero que deseja verificar se È primo ou n„o:\n");
+    printf("Digite o numero que deseja verificar se √© primo ou n√£o:\n");
     scanf("%d", &numero);
     confirmacao=primo(numero);
     if(confirmacao==0){
-        printf("È um numero primo\n");
+        printf("√© um numero primo\n");
     }else{
-        printf("nao È um numero primo\n");
+        printf("nao √© um numero primo\n");
     }
     return 0;
 }
